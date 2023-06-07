@@ -11,7 +11,7 @@ license: cc
 ---
 
 
-[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/markeyser/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/markeyser/hugging-face-demo/actions/workflows/main.yml)
 
 # hugging-face-demo
 Devoted to understand how to use Hugging Face Spaces, Gradio and GitHub Action for DevOps (CD)
